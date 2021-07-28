@@ -61,73 +61,7 @@
 
         gtag('config', 'UA-129031111-1');
     </script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
-
-        .myclass {
-
-            background-image: url('images/bg1.jpg');
-            background-position: center;
-            background-size: cover;
-            height: 100vh;
-            clip-path: polygon(20% 0, 100% 0, 100% 100%, 0 100%);
-        }
-
-        .banner-one__moc {
-            position: relative;
-            left: 0;
-            bottom: 0;
-            margin-top: -30px;
-        }
-
-        .banner-one__title1 {
-            font-size: 16px;
-            width: 150px;
-            font-weight: 300;
-            background-color: #2d72fe;
-            padding: 5px;
-            border-radius: 30px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: 'Titillium Web', sans-serif;
-
-        }
-
-        .banner-one__title2 span {
-            border-bottom: 10px solid #2d72fe;
-            font-family: Merriweather, serif;
-            font-size: 60px;
-        }
-
-        .banner-one__title2 {
-            color: black;
-            font-family: 'Merriweather', serif;
-            font-size: 60px;
-        }
-
-        .myTxt {
-            color: black;
-            line-height: 25px;
-            font-family: 'Titillium Web', sans-serif;
-            max-width: 650px;
-        }
-
-        .banner-one {
-            background-image: none;
-            /* background-attachment: fixed; */
-            padding-top: 0;
-            padding-bottom: 0;
-        }
-
-        .banner-one__content {
-            background-color: white;
-            padding: 25px;
-            padding-top: 175px;
-            border-radius: 15px;
-        }
-    </style>
+    
 </head>
 
 <body>
