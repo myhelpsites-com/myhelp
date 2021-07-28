@@ -1,0 +1,16 @@
+# REMOVE PHP FROM URL
+# REMOVE PHP EXTENSION
+RewriteEngine on 
+RewriteRule ^.*-(\d+)/.*.shtml$ product/index\.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*-z.shtml$ product/index\.php?cat=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*(catalog[a-z]+map\.xml)$  catalogmap/$1 [L]
+RewriteRule ^.*(sitemap\.xml)$  catalogmap/$1 [L]
+
+RewriteRule ^.*-(\d+)/.*.shtml$ product/index\.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*-z.shtml$ product/index\.php?cat=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*(catalog[a-z]+map\.xml)$  catalogmap/$1 [L]
+RewriteRule ^.*(sitemap\.xml)$  catalogmap/$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.82666in" height="6.82666in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6.82666 6.82666"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#424242}
+    .fil2 {fill:#FFFFFE}
+    .fil3 {fill:#FFFFFE;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <rect class="fil0" width="6.82666" height="6.82666"/>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_394082128">
+   <rect id="_394082152" class="fil1" width="6.82666" height="6.82666"/>
+   <rect id="_394081864" class="fil1" x="0.853331" y="0.853331" width="5.12" height="5.12"/>
+  </g>
+  <g id="_396594744">
+   <path id="_394082248" class="fil2" d="M4.14334 3.83945l1.57233 0 0 2.13388 -1.57233 0 0 -2.13388zm0.336929 0.393071l0.898472 0 0 0.224626 -0.898472 0 0 -0.224626zm0 1.12311l0.898472 0 0 0.224622 -0.898472 0 0 -0.224622zm0 -0.561555l0.898472 0 0 0.224626 -0.898472 0 0 -0.224626z"/>
+   <path id="_396594480" class="fil2" d="M4.14334 0.853331l1.57233 0 0 2.13387 -1.57233 0 0 -2.13387zm0.336929 0.393071l0.898472 0 0 0.224622 -0.898472 0 0 -0.224622zm0 1.1231l0.898472 0 0 0.224626 -0.898472 0 0 -0.224626zm0 -0.561551l0.898472 0 0 0.224626 -0.898472 0 0 -0.224626z"/>
+   <path id="_396594360" class="fil2" d="M1.11099 2.34639l1.57233 0 0 2.13388 -1.57233 0 0 -2.13388zm0.336929 0.393071l0.898472 0 0 0.224626 -0.898472 0 0 -0.224626zm0 1.12311l0.898472 0 0 0.224622 -0.898472 0 0 -0.224622zm0 -0.561551l0.898472 0 0 0.224622 -0.898472 0 0 -0.224622z"/>
+   <line id="_396594648" class="fil1" x1="4.14334" y1="4.49064" x2="2.62716" y2= "3.75025" />
+   <polygon id="_396594384" class="fil3" points="4.20627,4.66119 2.57803,3.86607 2.68356,3.64935 4.3118,4.44446 "/>
+   <polygon id="_396594312" class="fil3" points="4.20627,1.84102 2.57803,2.63613 2.68356,2.85286 4.3118,2.05774 "/>
+  </g>
+ </g>
+</svg>
