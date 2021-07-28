@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-
-
-
-
-
 <html lang="pt-br">
 
 <head>
@@ -626,8 +621,6 @@
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6996158.js"></script>
     <!-- End of HubSpot Embed Code -->
 
-    <?php
-    mysqli_close($conn);
-    ?>
+  
 
 </html>
