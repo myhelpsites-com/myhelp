@@ -41,7 +41,7 @@
     <br>
     <div class="container">
         <li>
-            <a target="blank" href="https://www.myhelpsites.com/10-motivos-aprender-html">
+            <a target="_blank" href="https://www.myhelpsites.com/10-motivos-aprender-html">
                 <div class="card-blog">
 
                     <div class="row">
@@ -71,7 +71,7 @@
             </a>
         </li>
         <li>
-            <a target="blank" href="https://www.myhelpsites.com/campo-pesquisa-select-html">
+            <a target="_blank"  href="https://www.myhelpsites.com/campo-pesquisa-select-html">
                 <div class="card-blog">
 
                     <div class="row">

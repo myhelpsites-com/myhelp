@@ -117,61 +117,61 @@
         <section class="brand-one">
             <div class="container">
                 <div class="brand-one__carousel owl-theme owl-carousel">
-                    <div class="item"><a href="https://www.hostinger.com.br/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.hostinger.com.br/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/hostinger.png" alt="Hostinger hospedagem de sites" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://registro.br/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://registro.br/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/registrobr.png" alt="Comprar dominio .com.br" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://www.locaweb.com.br/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.locaweb.com.br/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/locaweb.png" alt="Locaweb hospedagem de sites" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://www.jivochat.com.br/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.jivochat.com.br/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/jivochat.jpg" alt="JivoChat chat online" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://cloud.google.com/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://cloud.google.com/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/google-cloud-storage.png" alt="Google cloud hospedagem em nuvem" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://www.apple.com/br/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.apple.com/br/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/microsoft.png" alt="Apple empresa de tecnologia" /></a>
                     </div>
-                    <div class="item"><a href="https://aws.amazon.com/pt/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://aws.amazon.com/pt/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/amazon.png" alt="Amazon empresa de tecnologia" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://www.123formbuilder.com/pt/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.123formbuilder.com/pt/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/123formbuilder.jpg" alt="123Form builder formulario online" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://www.cognitoforms.com/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.cognitoforms.com/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/cognitos.png" alt="Cognitos Awesome Image" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://www.asaas.com/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.asaas.com/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/asaas.png" alt="Asaas cobrança por boleto" /></a>
                     </div>
-                    <div class="item"><a href="https://www.getninjas.com.br/anuncios/design-e-tecnologia/desenvolvimento-de-sites-e-sistemas/design-e-tecnologia-gabriel-ferreira-paranhos-santos-pinto?ref=internal" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.getninjas.com.br/anuncios/design-e-tecnologia/desenvolvimento-de-sites-e-sistemas/design-e-tecnologia-gabriel-ferreira-paranhos-santos-pinto?ref=internal" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/getninjas.png" alt="Getninjas clientes online" /></a>
                     </div>
-                    <div class="item"><a href="https://www.microsoft.com/pt-br" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.microsoft.com/pt-br" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/microsoft.png" alt="Microsoft empresa de tecnologia" /></a>
                     </div><!-- /.item -->
-                    <div class="item"><a href="https://code.visualstudio.com/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://code.visualstudio.com/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/visual.png" alt="Visual Studio editor de codigos" /></a>
                     </div>
-                    <div class="item"><a href="https://www.w3schools.com/cpp/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/cplus.png" alt="W3schools aprender codigo" /></a>
                     </div>
-                    <div class="item"><a href="https://www.w3schools.com/html/html5_intro.asp" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.w3schools.com/html/html5_intro.asp" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/html5.png" alt="HTML5 padronização" /></a>
                     </div>
-                    <div class="item"><a href="https://www.w3schools.com/css/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.w3schools.com/css/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/css3.png" alt="CSS forma de estilo" /></a>
                     </div>
-                    <div class="item"><a href="https://www.javascript.com/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.javascript.com/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/js.png" alt="Javascript criar funções" /></a>
                     </div>
-                    <div class="item"><a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/php.png" alt="PHP criar sistemas" /></a>
                     </div>
-                    <div class="item"><a href="https://www.mysql.com/" target="blank" rel="nofollow">
+                    <div class="item"><a href="https://www.mysql.com/" target="_blank" rel="nofollow">
                             <img src="images/fornecedores/mysql.png" alt="MySQL banco de dados" /></a>
                     </div>
 
@@ -225,7 +225,7 @@
                         <div class="block-title text-center">
                             <h3 class="" style="font-size: 23px;">
                                 Para receber um orçamento clique aqui
-                                <a target="blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20" class="cta-one__btn thm-btn">Clique aqui</a>
+                                <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20" class="cta-one__btn thm-btn">Clique aqui</a>
                             </h3><!-- /.block-title__title -->
                         </div>
                     </div>
@@ -239,7 +239,7 @@
                 </div><!-- /.block-title -->
                 <div class="video-one__content">
                     <img src="images/rocket.jpg" alt="Awesome Image" />
-                    <a target="blank" rel="nofollow" href="https://www.youtube.com/watch?v=L-aiZMfm_Tw" class="video-one__link video-popup"><i class="fa fa-play"></i></a>
+                    <a target="_blank" rel="nofollow" href="https://www.youtube.com/watch?v=L-aiZMfm_Tw" class="video-one__link video-popup"><i class="fa fa-play"></i></a>
                 </div><!-- /.video-one__content -->
             </div><!-- /.container -->
         </div><!-- /.video-one -->
@@ -265,7 +265,7 @@
                                 <li class="cta-one__list-item"><i class="fa fa-check"></i>Suporte Premium
                                 </li><!-- /.cta-one__list-item -->
                             </ul><!-- /.cta-one__list -->
-                            <a target="blank" rel="nofollow" href="404.php" class="cta-one__btn thm-btn">Baixar o App</a>
+                            <a target="_blank" rel="nofollow" href="404.php" class="cta-one__btn thm-btn">Baixar o App</a>
                         </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
@@ -280,87 +280,87 @@
 
 
                     <div class="item">
-                        <a target="blank" rel="nofollow" href="http://ejgoassessoria.com.br/">
+                        <a target="_blank" rel="nofollow" href="http://ejgoassessoria.com.br/">
                             <img src="images/ejgo.png" alt="EJGO Assessoria" />
                         </a>
                     </div><!-- /.item -->
 
                     <div class="item">
-                        <a target="blank" rel="nofollow" href="http://gptproject.com">
+                        <a target="_blank" rel="nofollow" href="http://gptproject.com">
                             <img src="images/gptproject.png" alt="GPT Project" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Tapeçaria Famosa" href="https://tapecariafamosa.com.br/">
+                        <a target="_blank" rel="nofollow" title="Tapeçaria Famosa" href="https://tapecariafamosa.com.br/">
                             <img src="images/clientes/1.png" alt="Tapeçaria Famosa" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="World Bankline" href="https://worldbanline.com.br/">
+                        <a target="_blank" rel="nofollow" title="World Bankline" href="https://worldbankline.com.br/">
                             <img src="images/clientes/2.png" alt="World Bankline" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Aplicativo Feeds" href="https://aplicativofeeds.com.br/">
+                        <a target="_blank" rel="nofollow" title="Aplicativo Feeds" href="https://aplicativofeeds.com.br/">
                             <img src="images/clientes/3.png" alt="Aplicativo Feeds" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Chave Coworking" href="https://chavecoworking.com.br/">
+                        <a target="_blank" rel="nofollow" title="Chave Coworking" href="https://chavecoworking.com.br/">
                             <img src="images/clientes/4.png" alt="Chave Coworking" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Clean Care SP" href="https://cleancaresp.com.br/">
+                        <a target="_blank" rel="nofollow" title="Clean Care SP" href="https://cleancaresp.com.br/">
                             <img src="images/clientes/5.png" alt="Clean Care SP" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="HemperStel" href="https://hemperstel.com.br/">
+                        <a target="_blank" rel="nofollow" title="HemperStel" href="https://hemperstel.com.br/">
                             <img src="images/clientes/6.png" alt="HemperStel" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Manuela Britto" href="https://manuelabritto.com.br/">
+                        <a target="_blank" rel="nofollow" title="Manuela Britto" href="https://manuelabritto.com.br/">
                             <img src="images/clientes/7.png" alt="Manuela Britto" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Portal T-Achei" href="https://portaltachei.com.br/">
+                        <a target="_blank" rel="nofollow" title="Portal T-Achei" href="https://portaltachei.com.br/">
                             <img src="images/clientes/8.png" alt="Portal T-Achei" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Rei da Serra" href="https://reidaserra.com.br/">
+                        <a target="_blank" rel="nofollow" title="Rei da Serra" href="https://reidaserra.com.br/">
                             <img src="images/clientes/9.png" alt="Rei da Serra" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" title="Worth Engenharia" href="https://worthengenharia.com.br/">
+                        <a target="_blank" rel="nofollow" title="Worth Engenharia" href="https://worthengenharia.com.br/">
                             <img src="images/clientes/10.png" alt="Worth Engenharia" />
                         </a>
                     </div><!-- /.item -->
 
 
                     <div class="item">
-                        <a target="blank" rel="nofollow" href="http://manipulafarma.com.br">
+                        <a target="_blank" rel="nofollow" href="http://manipulafarma.com.br">
                             <img src="images/manipula.png" alt="Manipula Farma" />
                         </a>
                     </div><!-- /.item -->
 
                     <div class="item">
-                        <a target="blank" rel="nofollow" href="http://reconeventos.com">
+                        <a target="_blank" rel="nofollow" href="http://reconeventos.com">
                             <img src="images/recon.png" alt="Recon Eventos" />
                         </a>
                     </div><!-- /.item -->
                     <div class="item">
-                        <a target="blank" rel="nofollow" href="http://tvtaboaoemfoco.com.br">
+                        <a target="_blank" rel="nofollow" href="http://tvtaboaoemfoco.com.br">
                             <img src="images/tvtaboao.png" alt="TV Taboão em foco" />
                         </a>
                     </div><!-- /.item -->
 
                     <div class="item">
-                        <a target="blank" rel="nofollow" href="http://cleancaredistribuidora.com.br">
+                        <a target="_blank" rel="nofollow" href="http://cleancaredistribuidora.com.br">
                             <img src="images/cleancare.png" alt="Clean Care Distribuidora" />
                         </a>
                     </div><!-- /.item -->
@@ -383,14 +383,14 @@
                     <div class="p1">
                         <div class="row">
                             <div class="col-lg-4">
-                                <a target="blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20de%20criação%20de%20site">
+                                <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20de%20criação%20de%20site">
                                     <button class="btn-1"><i class="fa fa-globe" aria-hidden="true"></i>
                                         criação de site
                                     </button>
                                 </a>
                             </div>
                             <div class="col-lg-4">
-                                <a target="blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20desenvolvimento%20de%20sistema">
+                                <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20desenvolvimento%20de%20sistema">
 
                                     <button class="btn-1"><i class="fa fa-code" aria-hidden="true"></i>
                                         criação de sistema
@@ -398,7 +398,7 @@
                                 </a>
                             </div>
                             <div class="col-lg-4">
-                                <a target="blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20de%20aplicativo%20android">
+                                <a target="_blank" rel="nofollow" href="https://api.whatsapp.com/send?phone=551155553591&text=Ol%C3%A1%20preciso%20de%20um%20orçamento%20de%20aplicativo%20android">
 
                                     <button class="btn-1"><i class="fa fa-android" aria-hidden="true"></i>
                                         criação de aplicativo android
@@ -536,7 +536,7 @@
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="site-footer__social">
-                        <a target="blank" target="blank" rel="nofollow" href=""><i class="fa fa-facebook-square"></i></a>
+                        <a target="_blank" target="_blank" rel="nofollow" href=""><i class="fa fa-facebook-square"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-instagram"></i></a>
                         <a href="#"><i class="fa fa-pinterest-p"></i></a>
