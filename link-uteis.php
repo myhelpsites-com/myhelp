@@ -6,24 +6,24 @@
                             <div class="footer-widget">
                                 <ul class="footer-widget__links">
                                     <li class="footer-widget__links-item">
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-sao-paulo">São Paulo</a>
-                                        <a target="blank"   href="https://web.myhelpsites.com/criacao-de-sites-em-taboao-da-serra/">Taboão da Serra</a>
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-embu-sp">Embu das Artes</a>
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-itapecerica">Itapecerica da Serra</a>
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-juquitiba">Juquitiba</a>
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-rio-preto">São José do Rio Preto</a>
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-mirassol">Mirassol</a>
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-campinas">Campinas</a>
-                                        <a target="blank"   href="https://www.myhelpsites.com/criacao-sites-sao-caetano-do-sul">São Caetano do Sul</a>
-                                        <a target="blank"   href="">Santos</a>
-                                        <a target="blank"   href="">São Bernardo do Campo</a>
-                                        <a target="blank"   href="">Piracicaba</a>
-                                        <a target="blank"   href="">Valhinhos</a>
-                                        <a target="blank"   href="">Jaguariúna</a>
-                                        <a target="blank"   href="">Ribeirão Preto</a>
-                                        <a target="blank"   href="">Araras</a>
-                                        <a target="blank"   href="">Sorocaba</a>
-                                        <a target="blank"   href="">São José dos campos</a>
+                                        <a target="blank"   href="/criacao-sites-sao-paulo">São Paulo</a>
+                                        <a target="blank"   href="/criacao-de-sites-taboao-da-serra">Taboão da Serra</a>
+                                        <a target="blank"   href="/criacao-sites-embu-sp">Embu das Artes</a>
+                                        <a target="blank"   href="/criacao-sites-itapecerica">Itapecerica da Serra</a>
+                                        <a target="blank"   href="/criacao-sites-juquitiba">Juquitiba</a>
+                                        <a target="blank"   href="/criacao-sites-rio-preto">São José do Rio Preto</a>
+                                        <a target="blank"   href="/criacao-sites-mirassol">Mirassol</a>
+                                        <a target="blank"   href="/criacao-sites-campinas">Campinas</a>
+                                        <a target="blank"   href="/criacao-sites-sao-caetano-do-sul">São Caetano do Sul</a>
+                                        <a target="blank"   href="/criacao-sites-santos-litoral">Santos</a>
+                                        <a target="blank"   href="/criacao-sites-bady-bassit">Bady Bassit</a>
+                                        <a target="blank"   href="/criacao-sites-zona-norte-sp">Zona Norte SP</a>
+                                        <a target="blank"   href="/criacao-sites-ruilandia">Ruilandia</a>
+                                        <a target="blank"   href="/criacao-sites-olimpia-sp">Olimpia SP</a>
+                                        <a target="blank"   href="/criacao-sites-jaci">Jaci</a>
+                                        <a target="blank"   href="/criacao-sites-ipiranga">ipiranga</a>
+                                        <a target="blank"   href="/criacao-sites-">Sorocaba</a>
+                                        <a target="blank"   href="/criacao-sites-sao-jose-dos-campos">São José dos campos</a>
 
 
                                     </li>
@@ -61,16 +61,16 @@
                             <div class="footer-widget">
                                 <ul class="footer-widget__links">
                                     <li class="footer-widget__links-item">
-                                        <a target="blank"   href="">Portugal</a>
-                                        <a target="blank"   href="">Santarém</a>
-                                        <a target="blank"   href="">Porto</a>
-                                        <a target="blank"   href="">Coimbra</a>
-                                        <a target="blank"   href="">Setúbal</a>
-                                        <a target="blank"   href="">Lisboa</a>
-                                        <a target="blank"   href="">Faro</a>
-                                        <a target="blank"   href="">Braga</a>
-                                        <a target="blank"   href="">Aveiro</a>
-                                        <a target="blank"   href="">Açores</a>
+                                        <a target="blank"   href="/criacao-sites-portugal">Portugal</a>
+                                        <a target="blank"   href="/criacao-sites-santarem">Santarém</a>
+                                        <a target="blank"   href="/criacao-sites-porto-pt">Porto</a>
+                                        <a target="blank"   href="/criacao-sites-coimbra">Coimbra</a>
+                                        <a target="blank"   href="/criacao-sites-setubal">Setúbal</a>
+                                        <a target="blank"   href="/criacao-sites-lisboa">Lisboa</a>
+                                        <a target="blank"   href="/criacao-sites-faro">Faro</a>
+                                        <a target="blank"   href="/criacao-sites-braga">Braga</a>
+                                        <a target="blank"   href="/criacao-sites-aveiro">Aveiro</a>
+                                        <a target="blank"   href="/criacao-sites-acores">Açores</a>
                                         <a target="blank"   href="">Madeira</a>
                                         <a target="blank"   href="">Londres</a>
                                         <a target="blank"   href="">Toquio</a>
@@ -88,22 +88,22 @@
                             <div class="footer-widget">
                                 <ul class="footer-widget__links">
                                     <li class="footer-widget__links-item">
-                                        <a target="blank"   href="">Nova York</a>
-                                        <a target="blank"   href="">Los Angeles</a>
-                                        <a target="blank"   href="">Kansas</a>
-                                        <a target="blank"   href="">Columbia</a>
-                                        <a target="blank"   href="">Vermont</a>
-                                        <a target="blank"   href="">Connectcut</a>
-                                        <a target="blank"   href="">Oregom</a>
-                                        <a target="blank"   href="">Virgínia</a>
-                                        <a target="blank"   href="">California</a>
-                                        <a target="blank"   href="">Washigton</a>
-                                        <a target="blank"   href="">Nova Jersey</a>
-                                        <a target="blank"   href="">Nevada</a>
-                                        <a target="blank"   href="">Utah</a>
-                                        <a target="blank"   href="">Flórida</a>
-                                        <a target="blank"   href="">Arizona</a>
-                                        <a target="blank"   href="">Brooklin</a>
+                                        <a target="blank"   href="/web-design-new-york">Nova York</a>
+                                        <a target="blank"   href="/web-design-los-angeles">Los Angeles</a>
+                                        <a target="blank"   href="/web-design-kansas">Kansas</a>
+                                        <a target="blank"   href="/web-design-company-cardiff">Carddiff</a>
+                                        <a target="blank"   href="/web-design-vermont">Vermont</a>
+                                        <a target="blank"   href="/web-design-connectcut">Connectcut</a>
+                                        <a target="blank"   href="/web-design-oregon">Oregon</a>
+                                        <a target="blank"   href="/web-design-virginia-beach">Virgínia</a>
+                                        <a target="blank"   href="/web-design-california-ca">California</a>
+                                        <a target="blank"   href="/web-design-washington">Washigton</a>
+                                        <a target="blank"   href="/web-design-new-jersey">Nova Jersey</a>
+                                        <a target="blank"   href="/web-design-nevada">Nevada</a>
+                                        <a target="blank"   href="/web-design-utah">Utah</a>
+                                        <a target="blank"   href="/web-design-idaho">Idaho</a>
+                                        <a target="blank"   href="/web-design-maryland">MaryLand</a>
+                                        <a target="blank"   href="/web-design-orlando">Orlando</a>
                                         <a target="blank"   href="">Seatle</a>
                                         <a target="blank"   href="">Boston</a>
                                         <a target="blank"   href="">Miami</a>

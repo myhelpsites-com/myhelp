@@ -2,29 +2,8 @@
 <html lang="pt-br">
 
 <head>
-
-    <meta name="p:domain_verify" content="e1e60b879ecb3f4007f48ab57e909ab7" />
-    <meta name="google-site-verification" content="sudizXKwVW9h0dGjDrnJ2FMaIVbtzBIiBOY-xf4MBnU" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>My Help: Criação de Websites, Apps Android e IOS e Sistema web!</title>
     <link rel="canonical" href="https://www.myhelpsites.com/">
-
-    <link rel="icon" type="image/png" sizes="64x64" href="images/logo/logo-blu.png">
-
-    <link rel="manifest" href="images/favicon/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
-
-    <meta name="distribuition" content="global">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br">
-    <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9" lang="pt-br">
-    <html prefix="og: http://ogp.me/ns#" class="no-js" lang="pt-br">
     <meta name="description" content="Somos uma agência de Criação de Sites, contamos com 5 anos de experiência em desenvolvimento de Sites Profissionais, Responsivos e Bonitos. Nosso foco é trazer a melhor experiência da web para seu usuário.">
     <meta name="geo.region" content="SP-BR">
     <meta name="geo.placename" content="São paulo-SP">
@@ -32,8 +11,6 @@
     <meta name="rating" content="General">
     <meta name="revisit-after" content="2 days">
     <meta name='copyright' content='codeglim'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="criação de sites">
     <meta property="og:locale" content="pt_br" />
     <meta property="og:type" content="website" />
@@ -44,6 +21,39 @@
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="800">
     <meta property="og:image:height" content="600">
+    <meta name="author" content="My Help - Criação de Sites" />
+    <meta name="reply-to" content="gabriel@myhelpsites.com" />
+    <meta http-equiv="cache-control" content="public" />
+    <meta http-equiv="Pragma" content="public" />
+    <meta name="language" content="pt-br" />
+    <meta name="owner" content="My Help" />
+    <meta name="Audience" content="ALL" />
+    <meta name="GOOGLEBOT" content="index,follow" />
+    <meta name="MSNBot" content="index,follow" />
+    <meta name="InktomiSlurp" content="index,follow" />
+    <meta name="Unknownrobot" content="index,follow" />
+    <meta name="distribuition" content="global">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="p:domain_verify" content="e1e60b879ecb3f4007f48ab57e909ab7" />
+    <meta name="google-site-verification" content="sudizXKwVW9h0dGjDrnJ2FMaIVbtzBIiBOY-xf4MBnU" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <link rel="icon" type="image/png" sizes="64x64" href="images/logo/logo-blu.png">
+    <link rel="manifest" href="images/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br">
+    <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie9" lang="pt-br">
+    <html prefix="og: http://ogp.me/ns#" class="no-js" lang="pt-br">
+
+
     <!-- teste -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -61,7 +71,7 @@
 
         gtag('config', 'UA-129031111-1');
     </script>
-    
+
 </head>
 
 <body>
@@ -77,7 +87,7 @@
                             <h2 class="banner-one__title2">Você sonha, <br>a gente <span>desenvolve!</span></h2>
                             <br>
                             <!-- /.banner-one__title -->
-                            <p class="myTxt">Somos uma agência de Criação de Sites, contamos com 5 anos de experiência em desenvolvimento de Sites Profissionais, Responsivos e Bonitos. Nosso foco é trazer a melhor experiência da web para seu usuário.
+                            <p class="myTxt">Somos uma agência de <B>Criação de Sites</B>, contamos com mais de 5 anos de experiência em <b>desenvolvimento de Sites Profissionais</b>, Responsivos e Bonitos. Nosso foco é trazer a melhor experiência da web para seu usuário.
                             </p>
                             <br>
                             <div class="row">
@@ -274,7 +284,7 @@
                             <img src="images/ejgo.png" alt="EJGO Assessoria" />
                         </a>
                     </div><!-- /.item -->
-                    
+
                     <div class="item">
                         <a target="blank" rel="nofollow" href="http://gptproject.com">
                             <img src="images/gptproject.png" alt="GPT Project" />
@@ -555,6 +565,6 @@
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6996158.js"></script>
     <!-- End of HubSpot Embed Code -->
 
-  
+
 
 </html>
