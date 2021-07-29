@@ -55,7 +55,7 @@
                     <h1>10 motivos para aprender html, e por onde você deve iniciar!</h1>
                     <br>
                     <p>Por Gabriel Ferreira, 19 de Junho de 2021</p>
-                    <p><a title="criação de sites" href="https://www.myhelpsites.com">criação de sites</a> > 10 motivos para aprender html, e por onde você deve iniciar!</p>
+                    <p><a title="criação de sites" href="https://www.myhelpsites.com">criação de sites</a> > <a href="/blog">Blog</a> 10 motivos para aprender html, e por onde você deve iniciar!</p>
                     <hr>
                     <p>
                         <i>
